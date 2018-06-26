@@ -1,0 +1,39 @@
+.parent{
+	font-size: 16px;
+}
+
+.maroon-header{
+   background-color: maroon;
+   color:white;
+}
+
+.yoyo::hover{
+	background-color: cyan
+}
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+
+.margin-top-5 {
+  margin-top: 5%; }
+
+.margin-bottom-5 {
+  margin-bottom: 5%; }
+
+.first-alphabet-large::first-letter {
+  font-size: 3rem; }
+
+html {
+  position: relative;
+  min-height: 100%; }
+
+body {
+  margin-bottom: 90px; }
+
+.footer {
+  background-color: #f5f5f5; }
+
+.container {
+  width: auto;
+  padding: 0 15px; }
